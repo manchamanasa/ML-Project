@@ -1,0 +1,14 @@
+CASE 1:
+Patient complains of fever and cough for 3 days.
+Diagnosed with pneumonia.
+Started on Amoxicillin 500 mg twice daily.
+
+CASE 2:
+45-year-old female with chest pain since morning.
+Possible myocardial infarction.
+Aspirin started.
+
+CASE 3:
+Patient presents with headache.
+No diagnosis recorded.
+Paracetamol given.
